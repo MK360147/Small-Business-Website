@@ -87,9 +87,10 @@
     border-radius: var(--border-radius);
     font-weight: 600;
     transition: var(--transition);
-    width: 210px;  /* Fixed width */
+    width: 170px;  /* Fixed width */
     height: 50px;
     line-height: 25px; /* Center text vertically */
+    text-align: center;
   }
   
   .btn-contact {
@@ -115,9 +116,10 @@
     border-radius: var(--border-radius);
     font-weight: 600;
     transition: var(--transition);
-    width: 210px;
+    width: 170px;
     height: 50px;
     line-height: 25px;
+    text-align: center;
   }
   
   .btn-outline:hover {
@@ -158,9 +160,13 @@
   }
 
   .logo-img {
-    width: 45px;  /* Adjust size as needed */
-    height: auto;
-    object-fit: contain;
+    width: 50px; /* Adjust size as needed */
+    height: 50px; /* Should be equal to width for perfect circle */
+    border-radius: 50%; /* Makes the container circular */
+    object-fit: cover; /* Ensures image fills the circular container */
+    background-color: #fff; /* Optional: adds background color */
+    padding: 5px; /* Optional: adds some spacing inside the circle */
+    border: 2px solid #ddd; /* Optional: adds a border around the circle */
   }
   
   .logo-icon {
