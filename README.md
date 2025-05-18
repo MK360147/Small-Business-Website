@@ -8,7 +8,7 @@ a responsive and visually appealing carpentry business website created for **Bui
 
 This project was built using **HTML**, **CSS**, and **vanilla JavaScript**, with support from AI tools for design inspiration and coding assistance.
 
-![Screenshot_2025-05-11_05-01-43](https://github.com/user-attachments/assets/080c2dbb-2cb5-4b5d-b521-2270d5fbe557)
+![Screenshot_2025-05-18_22-40-23](https://github.com/user-attachments/assets/49e2cc81-26c9-4df9-9c79-85b1666f61ae)
 
 ---
 
