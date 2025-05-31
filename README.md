@@ -1,4 +1,7 @@
-# Small-Business-Website
+
+![MK MAHWETE(4)](https://github.com/user-attachments/assets/cd580640-4ceb-4917-a34a-0f1621bc7feb)
+
+
 **Build and Given Carpentry** Website is
 a responsive and visually appealing carpentry business website created for **Build and Given Carpentry**, showcasing services, projects, and company information with a modern and professional design.
 
@@ -8,7 +11,7 @@ a responsive and visually appealing carpentry business website created for **Bui
 
 This project was built using **HTML**, **CSS**, and **vanilla JavaScript**, with support from AI tools for design inspiration and coding assistance.
 
-![Screenshot_2025-05-18_22-40-23](https://github.com/user-attachments/assets/49e2cc81-26c9-4df9-9c79-85b1666f61ae)
+![View The Website](https://fastidious-caramel-ef01c8.netlify.app/)
 
 ---
 
