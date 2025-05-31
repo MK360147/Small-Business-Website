@@ -11,7 +11,7 @@ a responsive and visually appealing carpentry business website created for **Bui
 
 This project was built using **HTML**, **CSS**, and **vanilla JavaScript**, with support from AI tools for design inspiration and coding assistance.
 
-![View The Website](https://fastidious-caramel-ef01c8.netlify.app/)
+Take a look at their Website [View The Website](https://fastidious-caramel-ef01c8.netlify.app/)
 
 ---
 
